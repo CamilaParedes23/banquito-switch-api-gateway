@@ -1,0 +1,9 @@
+﻿<!--
+POM base para banquito-switch-api-gateway
+
+groupId: com.banquito
+artifactId: switch.api-gateway
+package base: com.banquito.switchpagos.gateway
+
+Codex deberá completar este archivo con Spring Boot, Java 21 y las dependencias necesarias.
+-->
